@@ -1,2 +1,4 @@
 # dlstjd
-hi ibn hwang inseong
+Hi
+My name is Hwang inseong
+Bye
